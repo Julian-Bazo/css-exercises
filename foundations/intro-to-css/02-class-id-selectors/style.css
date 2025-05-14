@@ -1,0 +1,22 @@
+/* style.css */
+.odd {
+    background-color: hwb(0 40% 5%);
+    font-family: Verdana, "DejaVu Sans", sans-serif; 
+}
+
+#N2 {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+#N3 {
+
+    font-size: 24px;
+}
+
+#N4 {
+
+    font-size: 24px;
+    background-color: #78f180;
+    font-weight: 700;
+}
